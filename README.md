@@ -51,4 +51,4 @@ Aqui, modelei uma estrutura para representar o **planejamento de uma universidad
 Sou estudante e entusiasta de tecnologia, sempre em busca de aprender e compartilhar meus avanços.  
 Este é apenas o começo de uma série de projetos que vou desenvolver e publicar por aqui. 🚀  
 
-🔗 Me acompanhe no GitHub: [seu-usuario](https://github.com/seu-usuario)  
+🔗 Me acompanhe no GitHub: [seu-usuario](https://github.com/Galuria)  
